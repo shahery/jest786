@@ -1,0 +1,22 @@
+{
+  "name": "jest786",
+  "version": "1.0.0",
+  "description": "![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shahery/jest786.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shahery/jest786/issues"
+  },
+  "homepage": "https://github.com/shahery/jest786#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
